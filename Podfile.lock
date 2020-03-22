@@ -1,0 +1,23 @@
+PODS:
+  - Brightcove-Player-Core/dynamic (6.7.3)
+  - Kingfisher (5.13.2):
+    - Kingfisher/Core (= 5.13.2)
+  - Kingfisher/Core (5.13.2)
+
+DEPENDENCIES:
+  - Brightcove-Player-Core/dynamic
+  - Kingfisher (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/brightcove/BrightcoveSpecs.git:
+    - Brightcove-Player-Core
+  https://github.com/CocoaPods/Specs.git:
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Brightcove-Player-Core: 3fdfba1e7e131a333f574c91f22e30f6ef250c34
+  Kingfisher: d342c8354c10c3d85a27d6d4c42c41285924b898
+
+PODFILE CHECKSUM: 0513b2f93ecde5d7af43fa653125db30aa04d518
+
+COCOAPODS: 1.8.4
